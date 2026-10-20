@@ -82,7 +82,7 @@ systemctl is-active firewalld
 - Elastic Agent (PID 621) was listening on TCP ports 6789 and 6791, bound to 127.0.0.1.
 - Elastic OpenTelemetry Collector (PID 974) was listening on TCP ports 46717 and 38959, bound to 127.0.0.1.
 - The `dhcpcd` process had UDP sockets associated with DHCPv4 and DHCPv6 client activity.
-
+![Listening ports and network services](./Listening%20ports.png)
 ### 2. SSH Configuration
 
 The effective SSH configuration showed:
